@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @CalebRichardson115
-- 👀 I’m interested in learning more about the field.
-- 🌱 I’m currently learning C pointers and strings.
+- Currently a Mizzou undergraduate seeking a Computer Science degree.
+- 👀 I’m interested in learning more about the field and devloping projects
+- 🌱 I’m currently learning heap, Binary search trees, and I'm dabbling in hash tables
 - 💞️ I’m looking to collaborate on practical applications.
 - 📫 How to reach me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 CalebRichardson115/CalebRichardson115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
