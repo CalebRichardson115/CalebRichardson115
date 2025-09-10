@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CalebRichardson115
 - Currently a Mizzou undergraduate seeking a Computer Science degree.
 - 👀 I’m interested in learning more about the field and devloping projects
-- 🌱 I’m currently learning heap, Binary search trees, and I'm dabbling in hash tables
+- 🌱 I’m currently learning software development practices, GUI applications, and web-based applications.
 - 💞️ I’m looking to collaborate on practical applications.
 - 😄 Pronouns: he/him/his
 
